@@ -32,7 +32,7 @@ best_tacklers <- tackle_list[[7]]
 ```
 
 
-# PEP: A metric for evaluating tackles
+# PEP: A metric for evaluating tackles <img src="plots/logo_bdb.png" align="right" height=170>
 
 This is the github repository for the corresponding submission to the NFL Big Data Bowl 2024 competition on Kaggle. The full notebook can be viewed [here](https://www.kaggle.com/code/robbwu/pep-a-metric-for-evaluating-tackles).
 
