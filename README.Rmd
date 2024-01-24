@@ -3,7 +3,9 @@ output: github_document
 ---
 
 ```{r setup, echo = FALSE, warning=FALSE, message=FALSE, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(
+  echo = TRUE
+)
 
 library(tidyverse)
 library(flextable)
@@ -32,7 +34,7 @@ best_tacklers <- tackle_list[[7]]
 ```
 
 
-# PEP: A metric for evaluating tackles <img src="plots/logo_bdb.png" align="right" height=170>
+# PEP: A metric for evaluating tackles <img src="plots/bdb_logo.png" align="right" height=170>
 
 This is the github repository for the corresponding submission to the NFL Big Data Bowl 2024 competition on Kaggle. The full notebook can be viewed [here](https://www.kaggle.com/code/robbwu/pep-a-metric-for-evaluating-tackles).
 

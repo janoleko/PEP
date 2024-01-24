@@ -1,5 +1,5 @@
 
-# PEP: A metric for evaluating tackles
+# PEP: A metric for evaluating tackles <img src="plots/bdb_logo.png" align="right" height=170>
 
 This is the github repository for the corresponding submission to the
 NFL Big Data Bowl 2024 competition on Kaggle. The full notebook can be
