@@ -13,7 +13,7 @@ value of tackles. It allows practitioners to assess players,
 particularly in terms of their tackling abilities. Our approach allows
 for within-play conditional density estimation of the end-of-play yard
 line which serves as a basis for the evaluation of tackle performance
-measured by prevented expected points by artificially removing the
+measured by **prevented expected points** by artificially removing the
 tackler from the data. Importantly, our method incorporates
 distributional information, i.e., heteroscedasticity and multimodality,
 which would be lost when solely relying on point predictions. Therefore,
