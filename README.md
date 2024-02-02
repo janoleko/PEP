@@ -6,6 +6,10 @@ NFL Big Data Bowl 2024 competition on Kaggle. The full notebook can be
 viewed
 [here](https://www.kaggle.com/code/robbwu/pep-a-metric-for-evaluating-tackles).
 
+## Update
+
+Sadly, we narrowly missed a top-ten ranking, but we received an [honorable mention](https://x.com/StatsbyLopez/status/1753151459892367574?s=20) as the only team from Europe.
+
 ## Quick Summary
 
 In this contribution, we developed the metric PEP for quantifying the
